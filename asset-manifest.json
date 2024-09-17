@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EZLift.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/EZLift.github.io/static/js/main.0c0c9b17.js",
+    "static/js/453.2613a88d.chunk.js": "/EZLift.github.io/static/js/453.2613a88d.chunk.js",
+    "index.html": "/EZLift.github.io/index.html",
+    "main.f855e6bc.css.map": "/EZLift.github.io/static/css/main.f855e6bc.css.map",
+    "main.0c0c9b17.js.map": "/EZLift.github.io/static/js/main.0c0c9b17.js.map",
+    "453.2613a88d.chunk.js.map": "/EZLift.github.io/static/js/453.2613a88d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0c0c9b17.js"
+  ]
+}
