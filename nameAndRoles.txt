@@ -1,0 +1,24 @@
+{
+    name: 'Alan Chen',
+    role: 'Software',
+    description: 'Alan brings skills in Computer Vision, powering the complex visual decision making algorithm that Labot uses.',
+    imageUrl: 'https://via.placeholder.com/150' // Replace with real image URLs
+  },
+  {
+    name: 'Vraj Patel',
+    role: 'Software, Hardware',
+    description: 'Vraj works on ensuring Labot has the required sensors and hardware, while hooking it all together with code.',
+    imageUrl: 'https://via.placeholder.com/150'
+  },
+  {
+    name: 'Elvis Cheung',
+    role: 'Mechanical',
+    description: 'Elvis gives Labot the muscles required to acheive its tasks by designing the mechanical components needed.',
+    imageUrl: 'https://via.placeholder.com/150'
+  },
+  {
+    name: 'Jagroop Gill',
+    role: 'Mechanical, Project Management',
+    description: 'Jagroop provides Labot with the necessary appendeges, while keeping the team ontrack to acheive their goals.',
+    imageUrl: 'https://via.placeholder.com/150'
+  }
