@@ -2,23 +2,23 @@
     name: 'Alan Chen',
     role: 'Software',
     description: 'Alan brings skills in Computer Vision, powering the complex visual decision making algorithm that Labot uses.',
-    imageUrl: 'https://via.placeholder.com/150' // Replace with real image URLs
+    imageUrl: 'https://media.licdn.com/dms/image/v2/C5603AQHZKKeGPno37A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1631138159851?e=1738800000&v=beta&t=jrsSmndiPNX-GaDkaNt-W5Dg50-KcQYOHQBWLkh3aQg'
   },
   {
     name: 'Vraj Patel',
     role: 'Software, Hardware',
     description: 'Vraj works on ensuring Labot has the required sensors and hardware, while hooking it all together with code.',
-    imageUrl: 'https://via.placeholder.com/150'
+    imageUrl: 'https://media.licdn.com/dms/image/v2/D5603AQHTgIafGxqXjw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1677352263897?e=1738800000&v=beta&t=l8f_AfoxxIL9Z7XF_Ru_gCXuYrnLBmqp-JXwjoXNWBg'
   },
   {
     name: 'Elvis Cheung',
     role: 'Mechanical',
     description: 'Elvis gives Labot the muscles required to acheive its tasks by designing the mechanical components needed.',
-    imageUrl: 'https://via.placeholder.com/150'
+    imageUrl: 'https://media.licdn.com/dms/image/v2/D5603AQEGomPqUrMG5g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1706847291158?e=1738800000&v=beta&t=-w43l59M4R8sdLMI0WZ7sryaSuNj5ZixpE-h7rFPYjE'
   },
   {
     name: 'Jagroop Gill',
     role: 'Mechanical, Project Management',
     description: 'Jagroop provides Labot with the necessary appendeges, while keeping the team ontrack to acheive their goals.',
-    imageUrl: 'https://via.placeholder.com/150'
+    imageUrl: 'https://media.licdn.com/dms/image/v2/C4E03AQHHDw45lNKXWQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1610329434364?e=1738800000&v=beta&t=EjlYS3PH8rREjIINuKpLES6dtGgXdiZh14xeWN5o8Ls'
   }
